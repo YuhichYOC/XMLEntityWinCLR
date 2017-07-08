@@ -9,15 +9,19 @@
 
 // TODO: プログラムに必要な追加ヘッダーをここで参照してください
 
+#include <codecvt>
 #include <iostream>
+#include <locale>
 #include <memory>
 #include <string>
 #include <vector>
 
-#include <Shlwapi.h>
-#pragma comment (lib, "ShlWapi.lib")
-
 #include <xmllite.h>
 #pragma comment (lib, "xmllite.lib")
+
+#include <Shlwapi.h>
+#pragma comment (lib, "shlwapi.lib")
+
+#define XMLENTITYWINCLR_EXPORTS
 
 using namespace std;
