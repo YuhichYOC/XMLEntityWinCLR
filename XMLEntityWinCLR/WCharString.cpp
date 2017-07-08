@@ -1,9 +1,9 @@
-/*
+ï»¿/*
 *
 * WCharString.cpp
 *
 * Copyright 2016 Yuichi Yoshii
-*     ‹gˆä—Yˆê @ ‹gˆäY‹Æ  you.65535.kir@gmail.com
+*     å‰äº•é›„ä¸€ @ å‰äº•ç”£æ¥­  you.65535.kir@gmail.com
 *
 * Licensed under the Apache License, Version 2.0 (the "License");
 * you may not use this file except in compliance with the License.
